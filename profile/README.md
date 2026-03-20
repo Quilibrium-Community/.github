@@ -54,3 +54,7 @@ The treasury is managed via a Gnosis Safe multisig (3-of-5 signatures required) 
 - [Quorum](https://quorummessenger.com) — Quorum messenger
 - [Farcaster](https://warpcast.com/~/channel/quilibrium) — Farcaster channel
 - [Discourse](https://quilibrium.discourse.group/) — Forum
+
+---
+
+**Disclaimer:** Projects in this organization are provided as-is, without warranty of any kind. The Quilibrium Community organization and its maintainers are not responsible for any damages, losses, or issues arising from the use of these projects. Always do your own research and use software at your own risk. Never share private keys or send funds to addresses without independent verification.
