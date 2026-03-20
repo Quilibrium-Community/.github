@@ -6,6 +6,14 @@ Community-built open-source tools and resources for the [Quilibrium](https://qui
 
 > This organization is community-driven and is **not affiliated with or endorsed by Quilibrium Inc.**
 
+## Project Guidelines
+
+All projects in this organization must:
+
+1. **Be open source** under the **AGPL-3.0** license, aligned with official Quilibrium projects
+2. **Be related to Quilibrium** — community tools, resources, bots, integrations, or ecosystem utilities
+3. **Not impersonate official Quilibrium projects** — all projects must clearly state they are community-driven and unofficial
+
 ## Projects
 
 | Project | Description |
