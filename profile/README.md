@@ -1,4 +1,6 @@
-# Quilibrium Community
+<p align="center">
+  <img src="banner.png" alt="Quilibrium Community — Long Live The Internet" />
+</p>
 
 Community-built open-source tools and resources for the [Quilibrium](https://quilibrium.com) network — the decentralized internet protocol.
 
