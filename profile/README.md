@@ -38,22 +38,9 @@ The treasury is managed via a Gnosis Safe multisig (3-of-5 signatures required) 
 
 **[Learn more & donate](https://quilibrium.one/#treasury)**
 
-## Official Links
+## Links
 
-- [Quilibrium.com](https://quilibrium.com) — Official website
-- [Documentation](https://quilibrium.com/) — Official docs
-- [GitHub](https://github.com/QuilibriumNetwork/quorum-desktop) — Official repo
-- [X / Twitter](https://x.com/QuilibriumInc) — Official updates
-
-## Community Links
-
-- [Quilibrium.one](https://quilibrium.one) — Community resources & guides
-- [Discord](https://discord.gg/quilibrium) — Community server
-- [Telegram](https://t.me/quilibrium) — Telegram group
-- [X / Twitter](https://x.com/QuilibriumOne) — Community updates
-- [Quorum](https://quorummessenger.com) — Quorum messenger
-- [Farcaster](https://warpcast.com/~/channel/quilibrium) — Farcaster channel
-- [Discourse](https://quilibrium.discourse.group/) — Forum
+**[All official & community links →](https://quilibrium.one/links)**
 
 ---
 
