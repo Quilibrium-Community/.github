@@ -14,12 +14,6 @@ All projects in this organization must:
 2. **Be related to Quilibrium** — community tools, resources, bots, integrations, or ecosystem utilities
 3. **Not impersonate official Quilibrium projects** — all projects must clearly state they are community-driven and unofficial
 
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| [Quily](https://github.com/Quilibrium-Community/quily) | RAG-powered chatbot for Quilibrium — available on [Discord](https://discord.gg/quilibrium) and the [web](https://quily.quilibrium.one) |
-
 ## Contributing
 
 We welcome contributions from anyone interested in the Quilibrium ecosystem.
