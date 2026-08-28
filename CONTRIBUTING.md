@@ -28,6 +28,8 @@ When it does happen, it grows out of having worked together for a while. It is n
 
 Nothing is lost by waiting either way. Moving a repository later is exactly as easy as moving it today.
 
+What we can do meanwhile is point people at it. We keep a list of [community projects](COMMUNITY-PROJECTS.md) built by people we have worked with, which stay on their authors' own accounts.
+
 If you think your project is already central to the community, say so anyway: [open an issue](https://github.com/Quilibrium-Community/.github/issues/new?title=Project:%20YOUR%20PROJECT&body=What%20it%20does:%0A%0ARepo%20link:%0A%0AHow%20long%20it%20has%20been%20running:%0A). Worst case we say not yet and we have still seen your work.
 
 ## Rules for anything hosted here
