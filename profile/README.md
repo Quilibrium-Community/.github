@@ -24,6 +24,8 @@ We welcome contributions from anyone interested in the Quilibrium ecosystem.
 
 No special permissions needed — just fork and submit a PR.
 
+**Built something for the Quilibrium ecosystem?** We would like to see it, even though projects usually stay under their author's own account. The [contributing guide](https://github.com/Quilibrium-Community/.github/blob/main/CONTRIBUTING.md) explains how to get involved and what we can host.
+
 ## Community Treasury
 
 The community runs a treasury to fund ecosystem growth — educational content, developer grants, CEX listings, and community programs.
