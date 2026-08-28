@@ -145,8 +145,14 @@ if [ "$ENGINE" = "native" ]; then
     local label="$1" pattern="$2" out="$WORKDIR/p.tmp"
     : > "$out"
     # -l prints only "rev:path", never the matching line, so no value leaks.
+    #
+    # No trailing "--" here. xargs appends the revision list to the END of the
+    # command, and anything after "--" is a pathspec, so a trailing separator
+    # makes git read every commit SHA as a filename and fail with "must be run
+    # in a work tree" on a bare mirror. The SHAs resolve as revisions on their
+    # own.
     xargs -a "$WORKDIR/revs.txt" -n 120 \
-      git -C "$REPO" grep -I -l -E "$pattern" -- 2>>"$ERRLOG" \
+      git -C "$REPO" grep -I -l -E "$pattern" 2>>"$ERRLOG" \
       >>"$out" || true
     sed 's/^[0-9a-f]*://' "$out" | sort -u | head -20 \
       | while IFS= read -r hit; do [ -n "$hit" ] && report "$label" "$hit"; done
