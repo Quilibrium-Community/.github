@@ -1,5 +1,7 @@
 # Contributing
 
+Community-built tools for the [Quilibrium](https://quilibrium.com) network. See everything we host on the [organization page](https://github.com/Quilibrium-Community).
+
 ## Working on a project here
 
 Fork the repo, make your changes on a branch, open a pull request against `main`. No permission needed, and you do not have to join anything.
