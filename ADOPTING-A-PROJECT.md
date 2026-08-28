@@ -13,8 +13,10 @@ Only run this when there is already a working relationship with the author and a
 **Scan the full history for secrets:**
 
 ```bash
-/d/scripts/scan-donated-repo.sh https://github.com/AUTHOR/THEIR-PROJECT
+./scripts/scan-donated-repo.sh https://github.com/AUTHOR/THEIR-PROJECT
 ```
+
+The script lives in this repo at [scripts/scan-donated-repo.sh](scripts/scan-donated-repo.sh), so clone this repo and run it from the root.
 
 Start Docker Desktop first. Without it the script falls back to a narrow built-in scan and exits 2 (inconclusive) rather than pretending to be a pass.
 
